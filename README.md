@@ -1,0 +1,9 @@
+- 👋 Olá, eu sou o Flávio Ceciliato;
+- 💻 Sou estagiário de TI na Tata Consultancy Services
+- 📚 Eu estudo Sistemas de Informação e Licenciatura em Computação;
+- 📫 flavio_2000jbt@hotmail.com
+
+<!---
+flavioceciliato/flavioceciliato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
