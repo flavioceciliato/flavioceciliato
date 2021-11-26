@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o Flávio Ceciliato;
 - 💻 Sou estagiário de TI na Tata Consultancy Services
-- 📚 Eu estudo Sistemas de Informação e Licenciatura em Computação;
+- 📚 Eu estudo Sistemas de Informação e Licenciatura em Computação na UENP;
 - 📫 flavio_2000jbt@hotmail.com
 
 <!---
